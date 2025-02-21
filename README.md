@@ -1,7 +1,7 @@
 <!-- Table to show your name, enrollment number, IET DAVV email.-->
-Name: Karan Lodhi
-Enrollment number: DE22520
-IET DAVV email: 22bit035@ietdavv.edu.in
+| Name | Enroll number | Email |
+| --- | --- | --- |
+| Karan Lodhi | DE22520 | 22bit035@ietdavv.edu.in |
 
 <!-- Learning resources section  -->
     Urls: https://learngitbranching.js.org/ , https://git-scm.com/docs
